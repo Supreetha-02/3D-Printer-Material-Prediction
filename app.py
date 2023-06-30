@@ -26,5 +26,5 @@ def predict():
 # scaler = pickle.load(open('static/scaler.pkl', 'rb'))
 if __name__ == '__main__':
     app.run(debug=True)
-app.
+
 
